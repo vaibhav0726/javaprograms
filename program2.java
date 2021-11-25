@@ -1,3 +1,4 @@
+// Palindrome solution
 public class program2 {
   
     public static void main(String[] args) {
@@ -11,6 +12,7 @@ public class program2 {
             rem = n % 10;
             rev= rev* 10 + rem;
         }
+
   
         // palindrome if temp and sum are equal
         if (temp== rev)
