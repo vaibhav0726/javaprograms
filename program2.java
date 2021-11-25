@@ -11,6 +11,7 @@ public class program2 {
         {
             rem = n % 10;
             rev= rev* 10 + rem;
+            //
         }
 
   
