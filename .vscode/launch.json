@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch program",
+            "request": "launch",
+            "mainClass": "program",
+            "projectName": "javaprograms_e57a2cb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch CGPA",
+            "request": "launch",
+            "mainClass": "CGPA",
+            "projectName": "javaprograms_e57a2cb6"
+        },
+        {
+            "type": "java",
             "name": "Launch AreaOfCircle",
             "request": "launch",
             "mainClass": "AreaOfCircle",
