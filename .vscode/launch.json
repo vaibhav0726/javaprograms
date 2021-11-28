@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch stringexample2",
+            "request": "launch",
+            "mainClass": "stringexample2",
+            "projectName": "javaprograms_e57a2cb6"
+        },
+        {
+            "type": "java",
             "name": "Launch stringbufferexample",
             "request": "launch",
             "mainClass": "stringbufferexample",
