@@ -12,11 +12,11 @@ class stringexample2
 		
 		//int res=str1.indexOf('P',6);//if after 6 P is not present simply it will print -1;
 
-		String res=str1.substring(6);
+		//String res=str1.substring(6);
  
 		//boolean res=str1.equals(str2);//if we want to remove case sensivity then we will add equalsIgnoreCase();
 
-		//boolean res=str1.equalsIgnoreCase(str2);
+		boolean res=str1.equalsIgnoreCase(str2);
 
 		//String res=str1.concat(str2);
 		System.out.println(res);
