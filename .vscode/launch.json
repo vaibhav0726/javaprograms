@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch GLA3",
+            "request": "launch",
+            "mainClass": "GLA3",
+            "projectName": "javaprograms_e57a2cb6"
+        },
+        {
+            "type": "java",
             "name": "Launch program9",
             "request": "launch",
             "mainClass": "program9",
