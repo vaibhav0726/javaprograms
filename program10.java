@@ -5,6 +5,11 @@ class amity//example of constructor inhertance;
 	{
 		System.out.println("amity...non para ...base");
 	}
+    void func()
+    {
+        System.out.println("Hello Priyanshu Awasthi ");
+    }
+    
 }
 class GLA3 extends amity
 {
@@ -15,5 +20,6 @@ class GLA3 extends amity
 	public static void main(String args[])
 	{
 		GLA3 obj =new GLA3();
+        obj.func();
 	}
 }
