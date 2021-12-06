@@ -1,6 +1,6 @@
 // perfect number in java 
 import java.util.Scanner;
-class Perfect
+class program13{
 	public static void main(String arg[])	
 	{
 	    long n,sum=0;
