@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch program12",
+            "request": "launch",
+            "mainClass": "program12",
+            "projectName": "javaprograms_e57a2cb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintAsciiValueExample2",
+            "request": "launch",
+            "mainClass": "PrintAsciiValueExample2",
+            "projectName": "javaprograms_e57a2cb6"
+        },
+        {
+            "type": "java",
             "name": "Launch GLA3",
             "request": "launch",
             "mainClass": "GLA3",

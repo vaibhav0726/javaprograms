@@ -36,7 +36,7 @@ class CGPA
  
      System.out.println("cgpa=  "+cgpa);
  
-     System.out.println("percantage from cgpa   ="+cgpa*9.5);
+     System.out.println("percantage from cgpa   =+cgpa*9.5);
  
    }
 }
