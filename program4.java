@@ -3,10 +3,10 @@ class AreaOfCircle
 {
    public static void main(String args[]) 
     {     
-      Scanner sn = new Scanner(System.in);
+      Scanner s = new Scanner(System.in);
         
          System.out.println("Enter the radius:");
-         double r= sn.nextDouble();
+         double r= s.nextDouble();
          double  area=(22*r*r)/7 ;
          System.out.println("Area of Circle is: " + area);      
    }

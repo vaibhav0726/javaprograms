@@ -1,4 +1,5 @@
 // perfect number in java 
+
 import java.util.Scanner;
 class program13{
 	public static void main(String arg[])	
