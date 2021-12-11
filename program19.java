@@ -10,7 +10,7 @@ class program19{
         while(in.hasNext()){
             String IP = in.next();
             System.out.println(IP.matches(new MyRegex().pattern));
-            System.out.pritl("hello Priyashu awasthi ")
+            
         }
 
     }
