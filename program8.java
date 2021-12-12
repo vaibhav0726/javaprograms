@@ -6,6 +6,8 @@ class stringexample2
 		String str2="JaVa programming";
 		System.out.println(str1);
 		
+
+		
 		System.out.println("\n\n----------\n\n");
 		
 		//char res=str1.charAt(5);
